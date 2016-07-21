@@ -4,22 +4,27 @@ title: "Vien Nguyen, ML/NLP practitioner, plan notes"
 date: 2016-07-21
 ---
 
+<p align = "justify">
 Still one month left to go, but since I am almost completely done with my project, my technical knowledge gaps have been filled quite enough. Things started to settle down, giving me more time to think how I will be combining my knowledge with my collaboration in the future.
 
 I'm happy that I've met wonderful people in my life, who contributed to shape the person I am today. I am thankful to people who are kind to me, who helped me believe humanity still exists. As a Vietnamese who have been working in Europe during 9 years, I do remember people who judge others by the border. I am grateful to people who treated me badly, who made me tougher, stronger and braver.
 
 As a person from third-world countries, I did not have much choice the first time I came to EU. You were given a scholarship, you tried to study, to survive, to graduate with distinction. Naturally, you try to get a job, you went to work, and so on. Then there comes a point in your life, you realize that you need to make a choice.
+</p>
 
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="512" height="432" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center"><p align = "justify">This is the sunset I captured in Crans-Montana, Switzerland in the last winter. It was so splendid and I felt I was blessed, but still a question in my mind: &quot;Do I belong to this place? Ifnot, where do I belong to?&quot;</p>
+		<td valign="center"><p align = "justify">This is the sunset I captured in Crans-Montana, Switzerland in the last winter. It was so splendid and I felt I was blessed, but still a question in my mind: &quot;Do I belong to this place? If not, where do I belong to?&quot;</p>
 		</td>
 	</tr>
 </table>
 
+<p align = "justify">
+Still, life doesn't give me an answer yet. When I was in Vietnam, I could not live with the current working environment and people's behaviors in work place. When I was in EU, working place was perfect but some problems were in culture adaptation, friendship and language barrier.
+</p>
 
 <div>
 <script>
