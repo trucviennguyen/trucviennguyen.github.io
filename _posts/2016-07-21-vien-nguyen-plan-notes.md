@@ -10,10 +10,10 @@ I'm happy that I've met wonderful people in my life, who contributed to shape th
 
 As a person from third-world countries, I did not have much choice the first time I came to EU. You were given a scholarship, you tried to study, to survive, to graduate with distinction. Naturally, you try to get a job, you went to work, and so on. Then there comes a point in your life, you realize that you need to make a choice.
 
-<table align = "center" border = "0" style = "width: 800px; height: 400px;" cellpadding="10" cellspacing = "10">
+<table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="400" height="338" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="480" height="405" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center"><p>This is the sunset I captured in Crans-Montana, Switzerland in the last winter.</p>
 		</td>
