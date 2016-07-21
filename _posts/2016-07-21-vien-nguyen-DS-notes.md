@@ -13,7 +13,7 @@ date: 2016-07-22
 <table align = "center" border = "0" style = "width: 1152px; height: 700px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89007906/524/576" width="524" height="576" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/89007906/460/512" width="460" height="512" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center">
 		<p style="margin-left:1px;">
