@@ -16,7 +16,7 @@ date: 2016-07-22
 			<iframe src="//www.eyeem.com/embed/p/89007906/576/628" width="576" height="628" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center">
-		<p style="margin-left:5em;">
+		<p style="margin-left:5px;">
 			Ten thousand flowers in spring, the moon in autumn<br>
 			A cool breeze in summer, snow in winter.<br>
 			If your mind isn't clouded by unnecessary things,<br>
