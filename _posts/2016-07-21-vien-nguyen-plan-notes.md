@@ -10,7 +10,7 @@ I'm happy that I've met wonderful people in my life, who contributed to shape th
 
 As a person from third-world countries, I did not have much choice the first time I came to EU. You were given a scholarship, you tried to study, to survive, to graduate with distinction. Naturally, you try to get a job, you went to work, and so on. Then there comes a point in your life, you realize that you need to make a choice.
 
-<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="320" height="270" frameborder="0" scrolling="no" allowtransparency="true" align="left"> </iframe>
+<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="400" height="338" frameborder="0" scrolling="no" allowtransparency="true" align="left"> </iframe>
 <br><br><br><br><br>
 <p>&nbsp;&nbsp;&nbsp;This is the sunset I captured in Crans-Montana, Switzerland in the last winter.</p>
 
