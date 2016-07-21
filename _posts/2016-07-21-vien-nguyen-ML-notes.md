@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Launches Site"
+title: "Vien Nguyen, ML/NLP practitioner, ML notes"
 date: 2016-07-21
 ---
 
-Recently I started to explore the great potential of Deep Learning. Thanks to the excellent [tutorial] (http://neuralnetworksanddeeplearning.com/) and I can use deep features to classify images in [Caltech101] (http://www.vision.caltech.edu/Image_Datasets/Caltech101/). It actually is a lot easier than I thought it was going to be. Finally I could train deep convolutional network to answer questions related to images in the [VQA] (https://github.com/trucviennguyen/VQA) problem.
+Recently I started to explore the great potential of Deep Learning. Thanks to the excellent [tutorial](http://neuralnetworksanddeeplearning.com/) and I can use deep features to classify images in [Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). It actually is a lot easier than I thought it was going to be. Finally I could train deep convolutional network to answer questions related to images in the [VQA](https://github.com/trucviennguyen/VQA) problem.
 <div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
