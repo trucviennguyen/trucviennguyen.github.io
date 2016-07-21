@@ -12,7 +12,7 @@ As a person from third-world countries, I did not have much choice the first tim
 
 <iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="320" height="270" frameborder="0" scrolling="no" allowtransparency="true" align="left"> </iframe>
 <br><br><br><br><br>
-&nbsp;&nbsp;&nbsp;This is the sunset I captured in Crans-Montana, Switzerland in the last winter.
+<p>&nbsp;&nbsp;&nbsp;This is the sunset I captured in Crans-Montana, Switzerland in the last winter.</p>
 
 <div>
 <script>
