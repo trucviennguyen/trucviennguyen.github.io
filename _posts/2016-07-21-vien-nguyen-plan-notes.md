@@ -13,7 +13,7 @@ As a person from third-world countries, I did not have much choice the first tim
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="480" height="405" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="512" height="432" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center"><p align = "justify">This is the sunset I captured in Crans-Montana, Switzerland in the last winter. It was so splendid and I felt I was blessed, but still a question in my mind: &quot;Do I belong to this place? Ifnot, where do I belong to?&quot;</p>
 		</td>
