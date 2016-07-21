@@ -5,7 +5,7 @@ date: 2016-07-21
 ---
 
 <p align = "justify">
-Recently I started to explore the great potential of Deep Learning. Thanks to the excellent [tutorial](http://neuralnetworksanddeeplearning.com/) and I can use deep features to classify images in [Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). It actually is a lot easier than I thought it was going to be. Finally I could train deep convolutional network to answer questions related to images in the [VQA](https://github.com/trucviennguyen/VQA) problem.
+Recently I started to explore the great potential of Deep Learning. Thanks to the excellent <a href="http://neuralnetworksanddeeplearning.com/">tutorial</a> and I can use deep features to classify images in <a href="http://www.vision.caltech.edu/Image_Datasets/Caltech101/">Caltech101</a>. It actually is a lot easier than I thought it was going to be. Finally I could train deep convolutional network to answer questions related to images in the <a href="https://github.com/trucviennguyen/VQA">VQA</a> problem.
 </p>
 <div>
 <script>
