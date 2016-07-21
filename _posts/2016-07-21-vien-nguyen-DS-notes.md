@@ -10,7 +10,7 @@ date: 2016-07-22
 <p align = "justify">
 	In the silence, I calm myself, listening to stillness:
 </p>
-<table align = "center" border = "0" style = "width: 1152px; height: 700px;" cellpadding="10" cellspacing = "10">
+<table align = "center" border = "0" style = "width: 1152px; height: 700px;" cellpadding="5px" cellspacing = "5px">
 	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/89007906/460/512" width="460" height="512" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
