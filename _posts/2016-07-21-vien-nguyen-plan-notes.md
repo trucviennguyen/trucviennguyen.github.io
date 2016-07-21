@@ -6,9 +6,11 @@ date: 2016-07-21
 
 <p align = "justify">
 Still one month left to go, but since I am almost completely done with my project, my technical knowledge gaps have been filled quite enough. Things started to settle down, giving me more time to think how I will be combining my knowledge with my collaboration in the future.
-
+</p>
+<p align = "justify">
 I'm happy that I've met wonderful people in my life, who contributed to shape the person I am today. I am thankful to people who are kind to me, who helped me believe humanity still exists. As a Vietnamese who have been working in Europe during 9 years, I do remember people who judge others by the border. I am grateful to people who treated me badly, who made me tougher, stronger and braver.
-
+</p>
+<p align = "justify">
 As a person from third-world countries, I did not have much choice the first time I came to EU. You were given a scholarship, you tried to study, to survive, to graduate with distinction. Naturally, you try to get a job, you went to work, and so on. Then there comes a point in your life, you realize that you need to make a choice.
 </p>
 
