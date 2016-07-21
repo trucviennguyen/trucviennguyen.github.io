@@ -15,7 +15,7 @@ As a person from third-world countries, I did not have much choice the first tim
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="400" height="338" frameborder="0" scrolling="no" allowtransparency="true" style="float:left;margin:10px 10px 10px 10px;"> </iframe>
 		</td>
-		<td valign="center">This is the sunset I captured in Crans-Montana, Switzerland in the last winter.
+		<td valign="center"><p>This is the sunset I captured in Crans-Montana, Switzerland in the last winter.</p>
 		</td>
 	</tr>
 </table>
