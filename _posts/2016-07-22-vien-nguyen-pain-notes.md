@@ -5,10 +5,9 @@ date: 2016-07-22
 ---
 
 <p align = "justify">
-	<strong>Professor X</strong> to <strong>Charles Xavier</strong><br>
-	It's not their pain you're afraid of. It's yours, Charles. And as frightening as it can be, that pain will make you stronger. If you allow yourself to feel it, embrace it, .it will make you more powerful than you ever imagined. It's the greatest gift we have: to bear their pain without breaking. And it comes from the most human part of us: hope. Charles, we need you to hope again.
+	In <em>X-Men: Days of Future Past</em><strong>Professor X</strong> to <strong>Charles Xavier</strong><br>
+	It's not their pain you're afraid of. It's yours, Charles. And as frightening as it can be, that pain will make you stronger. If you allow yourself to feel it, embrace it, it will make you more powerful than you ever imagined. It's the greatest gift we have: to bear their pain without breaking. And it comes from the most human part of us: hope. Charles, we need you to hope again.
 </p>
-<br>
 <div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
