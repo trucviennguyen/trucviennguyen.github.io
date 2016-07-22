@@ -4,11 +4,12 @@ title: "Vien Nguyen, ML/NLP practitioner, Notes on Writing"
 date: 2016-07-22
 ---
 
+<h2>Opening sentences</h2>
 <p align = "justify">
-	<h2>Opening sentences</h2><br>
-	<p align = "justify"><strong>Is the sentence striking enough to make the reader proceed?</strong></p>
-	<h3>&quot;Fahrenheit 451&quot; (Bradbury)</h3><br>
-	<p align = "justify">It was a pleasure to burn.</p>
+	<strong>Is the sentence striking enough to make the reader proceed?<br>
+	Opening sentence in <em>&quot;Fahrenheit 451&quot; (Bradbury)</em>
+	</strong>
+	It was a pleasure to burn.
 </p>
 <div>
 <script>
