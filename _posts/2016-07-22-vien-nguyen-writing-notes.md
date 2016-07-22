@@ -6,9 +6,9 @@ date: 2016-07-22
 
 <p align = "justify">
 	<h2>Opening sentences</h2><br>
-	<strong>Is the sentence striking enough to make the reader proceed?</strong>
-	<h3>&quot;Fahrenheit 451&quot; (Bradbury)<h3><br>
-	It was a pleasure to burn.
+	<p align = "justify"><strong>Is the sentence striking enough to make the reader proceed?</strong></p>
+	<h3>&quot;Fahrenheit 451&quot; (Bradbury)</h3><br>
+	<p align = "justify">It was a pleasure to burn.</p>
 </p>
 <div>
 <script>
