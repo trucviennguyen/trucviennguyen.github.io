@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Pain and Power"
+title: "Vien Nguyen, ML/NLP practitioner, Notes on Writing"
 date: 2016-07-22
 ---
 
