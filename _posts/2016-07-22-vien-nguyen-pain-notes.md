@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Stillness"
+title: "Vien Nguyen, ML/NLP practitioner, Pain and Power"
 date: 2016-07-22
 ---
 
