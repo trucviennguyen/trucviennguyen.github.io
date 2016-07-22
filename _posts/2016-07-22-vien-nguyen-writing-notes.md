@@ -8,7 +8,7 @@ date: 2016-07-22
 <p align = "justify">
 	<strong>Is the sentence striking enough to make the reader proceed?</strong><br>
 	Opening sentence in <em>&quot;Fahrenheit 451&quot; (Bradbury)</em><br>
-	It was a pleasure to burn.
+	<blockquote>It was a pleasure to burn.</blockquote>
 </p>
 <div>
 <script>
