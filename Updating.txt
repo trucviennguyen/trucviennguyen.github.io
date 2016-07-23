@@ -1,4 +1,0 @@
-cd trucviennguyen.github.io
-git add -A
-git commit -m "Updating CV."
-git push -u origin master
