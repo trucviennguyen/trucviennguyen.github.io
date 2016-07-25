@@ -11,6 +11,13 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
+			<iframe src="//www.eyeem.com/embed/p/90230832/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td valign="center"><p align = "justify">It was a peaceful evening, I was standing, watching a fishing boat going slowly on the ocean. In that silence, I felt calm, and I remembered a quote &quot;The more powerful and original a mind, the more it will incline towards the religion of solitude.&quot; -- Aldous Huxley</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<iframe src="//www.eyeem.com/embed/p/90245584/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center"><p align = "justify">I looked at the sunrise from the beach. They were all different shapes and emotions. I have viewed hundreds of sunrises, each of them different from all the others.</p>
