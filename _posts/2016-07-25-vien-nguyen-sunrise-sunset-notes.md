@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Plan notes"
+title: "Vien Nguyen, ML/NLP practitioner, Sunrise-Sunset notes"
 date: 2016-07-25
 ---
 
