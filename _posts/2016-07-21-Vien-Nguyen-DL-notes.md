@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, ML notes"
+title: "Vien Nguyen, ML/NLP practitioner, DL notes"
 date: 2016-07-21
 ---
 

@@ -5,7 +5,7 @@ date: 2016-07-25
 ---
 
 <p align = "justify">
-I went on vacation with my sisters. The weather was fantastic. We went to the beach on the first day, the waves were soft and the sea water was warm, people around were polite. We were bathing in the sea for more than one hour, it was super nice. The next day we have viewed a splendid sunrise. It was super to sit in the balcony, watching the sun emerged little by little. I felt like I was in an infinite space, there was just the sounds of the waves, the splendour of the sunrise.
+I went on vacation with my sisters. The weather was fantastic. We went to the beach on the first day, the waves were soft and the sea water was warm, people around were polite. We were bathing in the sea for more than one hour, it was super nice. The next day we have viewed a splendid sunrise. It was super to sit in the balcony, watching the sun emerging little by little. I felt like I was in an infinite space, there was just the sounds of the waves, the splendour of the sunrise.
 </p>
 
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
@@ -13,7 +13,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/90230832/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center"><p align = "justify">It was a peaceful evening, I was standing, watching a fishing boat going slowly on the ocean. In that silence, I felt calm, and I remembered a quote &quot;The more powerful and original a mind, the more it will incline towards the religion of solitude.&quot; -- Aldous Huxley</p>
+		<td valign="center"><p align = "justify">It was a peaceful evening, I was standing, watching a fishing boat going slowly on the ocean. In that silence, I felt calm, and I remembered &quot;The more powerful and original a mind, the more it will incline towards the religion of solitude.&quot; -- Aldous Huxley</p>
 		</td>
 	</tr>
 	<tr>
