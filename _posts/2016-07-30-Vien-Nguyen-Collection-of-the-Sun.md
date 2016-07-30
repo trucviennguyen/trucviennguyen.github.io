@@ -123,7 +123,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88826573/320/296" width="320" height="296" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/88826573/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 		<td valign="center">
 			<p align = "justify">
