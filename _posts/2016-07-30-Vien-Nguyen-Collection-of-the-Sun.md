@@ -75,7 +75,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 		</td>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88449104/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
+			</td
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88314694/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
@@ -84,18 +84,12 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88289903/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88223890/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88165951/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88163242/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
