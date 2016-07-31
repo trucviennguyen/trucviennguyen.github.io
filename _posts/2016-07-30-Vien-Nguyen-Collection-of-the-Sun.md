@@ -9,7 +9,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 </p>
 -->
 
-<table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="5px" cellspacing = "5px">
+<table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="0px" cellspacing = "5px">
 	<tr>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/90230832/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
@@ -75,7 +75,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 		</td>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88449104/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-			</td
+		</td>
 		<td>
 			<iframe src="//www.eyeem.com/embed/p/88314694/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
