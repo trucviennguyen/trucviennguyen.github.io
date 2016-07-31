@@ -12,243 +12,92 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="10" cellspacing = "10">
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90230832/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/90230832/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center">
-			<p align = "justify">The more powerful and original a mind, the more it will incline towards the religion of solitude.<br>
-			&nbsp;-- Aldous Huxley<br>
-			Sunrise at Vung Tau beach, Vietnam, July 2016
-			</p>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/90245584/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/90230326/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/89606028/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90245584/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset at Vung Tau beach, Vietnam, July 2016
-			</p>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/89101963/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/89101854/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/89078648/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90230326/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/89007840/320/372" width="256" height="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset at Vung Tau beach, Vietnam, July 2016
-			</p>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88944811/320/302" width="256" height="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88826612/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88826573/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89606028/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/88735192/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Crans-Montana, Switzerland, December 2015
-			</p>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88735155/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88717112/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88629321/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89605849/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<iframe src="//www.eyeem.com/embed/p/88629209/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Crans-Montana, Switzerland, December 2015
-			</p>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88507594/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88449104/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+		</td>
+		<td>
+			<iframe src="//www.eyeem.com/embed/p/88314694/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89101963/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Lugano, Switzerland
-			</p>
+			<iframe src="//www.eyeem.com/embed/p/88289903/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89101854/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise in Lugano, Switzerland
-			</p>
+			<iframe src="//www.eyeem.com/embed/p/88223890/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89078648/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise in Schwende, Appenzellerland, Switzerland
-			</p>
+			<iframe src="//www.eyeem.com/embed/p/88165951/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89007840/512/564" width="512" height="564" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			A peaceful afternoon in Lago Maggiore, Locarno, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88944811/512/451" width="512" height="451" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise in Crans-Montana, Switzerland, January 2016
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88826612/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Trento, Italy
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88826573/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Trento, Italy
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88735192/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Lugano lake, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88735155/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Lugano lake, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88717112/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Trento, Italy
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88629321/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise in Crans-Montana, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88629209/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset over mountain ranges viewed from M&auml;nnlichen, Switzerland, January 2016
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88507594/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Basel, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88449104/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Lugano, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88314694/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise over mountain ranges viewed from M&uuml;rren, Switzerland, January 2016
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88289903/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Crans-Montana, Switzerland
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88223890/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Fishing boats at sunrise in Vung Tau, Vietnam
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88165951/512/440" width="512" height="440" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunrise over mountain ranges viewed from M&uuml;rren, Switzerland, January 2016
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88163242/512/398" width="512" height="398" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td valign="center">
-			<p align = "justify">
-			Sunset in Crans-Montana, Switzerland, December 2015
-			</p>
+			<iframe src="//www.eyeem.com/embed/p/88163242/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 		</td>
 	</tr>
 </table>
