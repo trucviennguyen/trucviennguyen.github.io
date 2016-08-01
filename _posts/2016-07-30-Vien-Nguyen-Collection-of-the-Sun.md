@@ -12,7 +12,7 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="0px" cellspacing = "5px">
 	<tr>
 		<td>
-			<a href="https://www.eyeem.com/p/90230832">
+			<a href="https://www.eyeem.com/p/90230832" target="_blank">
 				<img src="/images/2016-07-Vung Tau-1.jpg" alt="Sunset" style="width:256px;height:256px;">
 			</a>
 		</td>
