@@ -12,86 +12,94 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="0px" cellspacing = "5px">
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90230832/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-07-Vung Tau-1.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90245584/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-07-Vung Tau-2.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/90230326/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-07-Vung Tau-3.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89606028/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/89605849/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/89101963/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/89101854/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/89078648/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-07-Vung Tau-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/89007840/320/372" width="256" height="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Murren-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88944811/320/302" width="256" height="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Murren-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88826612/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Murren-3.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88826573/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88735192/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88735155/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88717112/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
-		</td>
-		<td>
-			<iframe src="//www.eyeem.com/embed/p/88629321/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Mannlichen.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88629209/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Lugano-1.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88507594/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Lugano-2.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88449104/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Lugano-3.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88314694/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Lugano-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88289903/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88223890/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2016-01-Crans-Montana-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88165951/320/296" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2015-12-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<iframe src="//www.eyeem.com/embed/p/88163242/320/270" width="256" height ="256" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
+			<img src="../images/2015-12-Crans-Montana-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../images/2015-12-Crans-Montana-3.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2015-12-Crans-Montana-4.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2015-12-Crans-Montana-5.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2015-10-Basel.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../images/2015-10-Appenzell.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2015-02-Lugano.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2010-08-Trento-1.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2010-08-Trento-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../images/2015-07-Vung Tau.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="../images/2013-08-Nha Trang.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 </table>
