@@ -127,6 +127,11 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 			</a>
 		</td>
 		<td>
+			<a href="https://www.eyeem.com/p/89606028" target="_blank">
+				<img src="/images/2015-12-Crans-Montana-6.jpg" alt="Sunset" style="width:256px;height:256px;">
+			</a>
+		</td>
+		<td>
 			<a href="https://www.eyeem.com/p/88507594" target="_blank">
 				<img src="/images/2015-10-Basel.jpg" alt="Sunset" style="width:256px;height:256px;">
 			</a>
@@ -136,13 +141,18 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 				<img src="/images/2015-10-Appenzell.jpg" alt="Sunrise" style="width:256px;height:256px;">
 			</a>
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<a href="https://www.eyeem.com/p/89101963" target="_blank">
 				<img src="/images/2015-02-Lugano.jpg" alt="Sunset" style="width:256px;height:256px;">
 			</a>
 		</td>
-	</tr>
-	<tr>
+		<td>
+			<a href="https://www.eyeem.com/p/89007840" target="_blank">
+				<img src="/images/2015-09-Locarno.jpg" alt="Locarno sunshine" style="width:256px;height:256px;">
+			</a>
+		</td>
 		<td>
 			<a href="https://www.eyeem.com/p/88826612" target="_blank">
 				<img src="/images/2010-08-Trento-1.jpg" alt="Sunset" style="width:256px;height:256px;">
@@ -153,6 +163,8 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 				<img src="/images/2010-08-Trento-2.jpg" alt="Sunset" style="width:256px;height:256px;">
 			</a>
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<a href="https://www.eyeem.com/p/88223890" target="_blank">
 				<img src="/images/2014-09-Vung Tau.jpg" alt="Sunrise" style="width:256px;height:256px;">
@@ -164,6 +176,11 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 			</a>
 		</td>
 	</tr>
+			<!--
+			<a href="https://www.eyeem.com/p/89606028" target="_blank">
+				<img src="/images/2015-12-Crans-Montana-6.jpg" alt="Sunset" style="width:256px;height:256px;">
+			</a>
+			-->
 </table>
 
 <div>
