@@ -12,94 +12,94 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 <table align = "center" border = "0" style = "width: 900px; height: 450px;" cellpadding="0px" cellspacing = "5px">
 	<tr>
 		<td>
-			<img src="../images/2016-07-Vung Tau-1.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-07-Vung Tau-1.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-07-Vung Tau-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-07-Vung Tau-2.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-07-Vung Tau-3.jpg" alt="Sunrise" style="width:256px;height:256px;">
+			<img src="/images/2016-07-Vung Tau-3.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-07-Vung Tau-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="../images/2016-01-Murren-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2016-01-Murren-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2016-01-Murren-3.jpg" alt="Sunset" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2016-01-Mannlichen.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-07-Vung Tau-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="../images/2016-01-Lugano-1.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Murren-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-01-Lugano-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Murren-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-01-Lugano-3.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Murren-3.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2016-01-Lugano-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="../images/2016-01-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2016-01-Crans-Montana-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2015-12-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2015-12-Crans-Montana-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Mannlichen.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="../images/2015-12-Crans-Montana-3.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Lugano-1.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2015-12-Crans-Montana-4.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Lugano-2.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2015-12-Crans-Montana-5.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Lugano-3.jpg" alt="Sunset" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2015-10-Basel.jpg" alt="Sunset" style="width:256px;height:256px;">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="../images/2015-10-Appenzell.jpg" alt="Sunrise" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2015-02-Lugano.jpg" alt="Sunset" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2010-08-Trento-1.jpg" alt="Sunset" style="width:256px;height:256px;">
-		</td>
-		<td>
-			<img src="../images/2010-08-Trento-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Lugano-4.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="../images/2015-07-Vung Tau.jpg" alt="Sunrise" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 		<td>
-			<img src="../images/2013-08-Nha Trang.jpg" alt="Sunrise" style="width:256px;height:256px;">
+			<img src="/images/2016-01-Crans-Montana-2.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-12-Crans-Montana-1.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-12-Crans-Montana-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/2015-12-Crans-Montana-3.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-12-Crans-Montana-4.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-12-Crans-Montana-5.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-10-Basel.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/2015-10-Appenzell.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2015-02-Lugano.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2010-08-Trento-1.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2010-08-Trento-2.jpg" alt="Sunset" style="width:256px;height:256px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/2015-07-Vung Tau.jpg" alt="Sunrise" style="width:256px;height:256px;">
+		</td>
+		<td>
+			<img src="/images/2013-08-Nha Trang.jpg" alt="Sunrise" style="width:256px;height:256px;">
 		</td>
 	</tr>
 </table>
