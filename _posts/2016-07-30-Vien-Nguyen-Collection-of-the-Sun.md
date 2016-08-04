@@ -176,11 +176,15 @@ I went on vacation with my sisters. The weather was fantastic. We went to the be
 			</a>
 		</td>
 	</tr>
-			<!--
+	<!--
+	<tr>
+		<td>
 			<a href="https://www.eyeem.com/p/89606028" target="_blank">
 				<img src="/images/2015-12-Crans-Montana-6.jpg" alt="Sunset" style="width:256px;height:256px;">
 			</a>
-			-->
+		</td>
+	</tr>
+	-->
 </table>
 
 <div>
