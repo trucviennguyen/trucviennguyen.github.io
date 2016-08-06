@@ -9,7 +9,7 @@ In the last some weeks, I've decided to work more with <a href="https://www.kagg
 </p>
 
 <p align = "justify">
-Today, I started to work with <a href="https://www.kaggle.com/c/grupo-bimbo-inventory-demand">Grupo Bimbo</a>, another Kaggle competition with different kind of data and different machine learning task: Time Series Analysis with Regression.
+Today, I started to work with <a href="https://www.kaggle.com/c/grupo-bimbo-inventory-demand">Grupo Bimbo</a>, another Kaggle competition with different kind of data and different machine learning tasks: Time Series Analysis with Regression.
 </p>
 
 <div>
