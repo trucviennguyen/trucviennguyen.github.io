@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Sentiment Analysis"
+title: "Vien Nguyen, ML/NLP practitioner, Kaggle Titanic"
 date: 2016-08-07
 ---
 
