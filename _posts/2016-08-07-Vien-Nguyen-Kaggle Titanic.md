@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Vien Nguyen, ML/NLP practitioner, Kaggle Titanic"
+title: "Vien Nguyen, ML/NLP practitioner, Kaggle"
 date: 2016-08-07
 ---
 
 <p align = "justify">
-In the last some weeks, I've decided to work more with <a href="https://www.kaggle.com">Kaggle</a>. The purpose is to advance my skills in Machine Learning in general and to see my results compared to others. It wasn't easy at first. With the <a href="https://www.kaggle.com/c/titanic">Titanic</a> dataset, my very first submission to Kaggle was ranked about &gt; 2000 &#128530;. The first code was written in Python. Thanks to some nice online tutorials, I've added some feature engineering. I then moved to R, which allows with some more robust functions with less (lines of code). My best results so far was somewhere &gt; 400 &#128528;. More to improve &#128523; and more to come &#128522;.
+In the last some weeks, I've decided to work more with <a href="https://www.kaggle.com">Kaggle</a>. The purpose is to advance my skills in Machine Learning in general and to see my results compared to others. It wasn't easy at first. With the <a href="https://www.kaggle.com/c/titanic">Titanic</a> dataset, my very first submission to Kaggle was ranked about &gt; 2000 &#128530;. The first code was written in Python. Thanks to some nice online tutorials, I've added some feature engineering. I then moved to R, which allows with some more robust functions with less (lines of code). My best results so far was somewhere &lt; 500 &#128528;. More to improve &#128523; and more to come &#128522;.
 </p>
 
 <p align = "justify">
-Today, I started to work with <a href="https://www.kaggle.com/c/grupo-bimbo-inventory-demand">Grupo Bimbo</a>, another Kaggle competition with different kind of data and different machine learning tasks: Time Series Analysis with Regression.
+Today, I started to work with <a href="https://www.kaggle.com/c/grupo-bimbo-inventory-demand">Grupo Bimbo</a>, another Kaggle competition with different kind of data and different machine learning tasks: Time Series Analysis with Regression. My first results were somewhere  &lt; 600 &#128522;.
 </p>
 
 <div>
