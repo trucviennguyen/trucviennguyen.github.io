@@ -5,7 +5,7 @@ date: 2016-08-07
 ---
 
 <p align = "justify">
-In the last some weeks, I've decided to work more with <a href="https://www.kaggle.com">Kaggle</a>. The purpose is to advance my skills in Machine Learning in general and to see my results compared to others. It wasn't easy at first. With the <a href="https://www.kaggle.com/c/titanic">Titanic</a> dataset, my very first submission to Kaggle was ranked about &gt; 2000 &#128530;. The first code was written in Python. Thanks to some nice online tutorials, I've added some feature engineering. I then moved to R, which allows with some more robust functions with less (lines of code). My best results so far was somewhere &lt; 500 &#128528;. More to improve &#128523; and more to come &#128522;.
+In the last some weeks, I've decided to work more with <a href="https://www.kaggle.com">Kaggle</a>. The purpose is to advance my skills in Machine Learning in general and to see my results compared to others. With the <a href="https://www.kaggle.com/c/titanic">Titanic</a> dataset, my very first submission to Kaggle was ranked about &lt; 500 &#128528;. More to improve &#128523; and more to come &#128522;.
 </p>
 
 <p align = "justify">
